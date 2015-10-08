@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class NumberFight {
-
+// pull request
     
     public static void main(String[] args) {
         int M,B;
